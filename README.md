@@ -1,5 +1,5 @@
 # ME5603-examples
-Examples of numerical methods for the undergraduate course ME5603 - Energy Storage at Universidad de Chile.
+Examples of numerical methods for the undergraduate course **ME5603 - Energy Storage** at Universidad de Chile.
 
 Repository under construction!!
 
